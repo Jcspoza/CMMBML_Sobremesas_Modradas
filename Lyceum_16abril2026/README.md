@@ -2,7 +2,7 @@
 
 **Sobremesas_Moradas** : Charlas - café sobre feminismo en al CMM Benito M. Lozano
 
-<img title="" src="file:///Cartel_lyceum_16abr26.jpeg" alt="" width="331">
+<img title="" src="Cartel_lyceum_16abr26.jpeg" alt="" width="331">
 
 ## Agenda
 
