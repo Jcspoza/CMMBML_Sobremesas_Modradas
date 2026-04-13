@@ -54,6 +54,10 @@ Video 2 - 16 minutos
 
 [Lyceum Club - Trabajo academico](https://youtu.be/-tYO83KV7ws?si=SkMRTq4zuLn5SYGk)
 
+
+
+--> Si quieres **ampliar la informacion sobre el Lyceum Club ,** descárgate [este fichero](LYCEUM_s_morada_ampliacion.pdf) elaborado por MA Rodriguez y JC Santamaria 
+
 ---
 
 ## Charla: ¿Tienen menos visibilidad las mujeres notorias?
