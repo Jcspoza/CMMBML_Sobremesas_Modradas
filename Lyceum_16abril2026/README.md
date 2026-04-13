@@ -22,7 +22,7 @@
 
 ## Presentación de la iniciativa "Las sobremesas moradas" y de sus dinamizadores
 
---> ir a [pagina principal de la Sobremesas Moradas]([GitHub - Jcspoza/CMMBML_Sobremesas_Modradas: Charlas - cafe sobre feminismo en el Centro de mayores M Benito M. Lozano · GitHub](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas))
+--> ir a [pagina principal de la Sobremesas Moradas](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas)
 
 ---
 
@@ -66,7 +66,7 @@ Video 2 - 16 minutos
 - **Cuidados : diferencia de tiempos semanales empleados en cuidados no remunerados** entre  hombres y mujeres
 - **Micromachismos**: concepto acuñado por Luis Bonino y si seguimos viendo/ haciendo/ sufriendo estos comportamientos
 - **Mujeres en la republica**: mas allá de C. Campoamor y V. Kent
-- [**Maria Telo** ]([María Telo - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Mar%C3%ADa_Telo))y el cambio legislativo de final del franquismo: ley [14/1975,]([Creación de «Ley 14/75 de 2 de mayo de 1975» - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Ley_14/75_de_2_de_mayo_de_1975?action=edit&redlink=1)) el fin de la subordinación legal al marido
+- [**Maria Telo**](https://es.wikipedia.org/wiki/Mar%C3%ADa_Telo) y el cambio legislativo de final del franquismo: ley [14/1975,](https://es.wikipedia.org/wiki/Ley_14/75_de_2_de_mayo_de_1975?action=edit&redlink=1) el fin de la subordinación legal al marido
 - Las **cuotas** / las listas cremallera / los currículos ciegos : por que son necesarios aunque parecen discriminatorios
 - **Réquiem por el piropo**
 
@@ -74,4 +74,4 @@ Video 2 - 16 minutos
 
 ---
 
-## ¿Quieres incorporarte al equipo dinamizador?
+## ¿Quieres incorporarte al equipo dinamizador
