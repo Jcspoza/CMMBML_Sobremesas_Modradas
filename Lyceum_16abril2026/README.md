@@ -22,6 +22,8 @@
 
 ## Presentación de la iniciativa "Las sobremesas moradas" y de sus dinamizadores
 
+--> ir a [pagina principal de la Sobremesas Moradas]([GitHub - Jcspoza/CMMBML_Sobremesas_Modradas: Charlas - cafe sobre feminismo en el Centro de mayores M Benito M. Lozano · GitHub](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas))
+
 ---
 
 ## **Juego** : Identifica las profesiones de estas mujeres notorias que formaron parte del Lyceum club"
@@ -29,6 +31,22 @@
 ---
 
 ## Exposición: ¿Qué fue el **Lyceum** club? ¿Quienes formaron parte?
+
+Video 1-  3 minutos: 
+
+[Las primeras asociaciones El Lyceum Club Femenino. Plaza del Rey, 1 - YouTube](https://youtu.be/LfhZ4FxL2bs?si=Sv8TiFVTw_5_IveO)
+
+Video 2 - 2 minutos
+
+[Centenario del Lyceum Club Femenino: recuperar la memoria](https://www.rtve.es/play/videos/rtve-igualdad/centenario-del-lyceum-club-femenino-recuperar-memoria-mujeres/16987383/)
+
+**Video 3 - 10 minutos** --> El mas adecuado para la charla
+
+[LYCEUM CLUB FEMENINO. LA CASA DE LAS SIETE CHIMENEAS. - YouTube](https://youtu.be/JMggRWd3R7A?si=ENeJrEUajJy7CQ4r)
+
+Video 2 - 16 minutos
+
+[Lyceum Club - Trabajo academico](https://youtu.be/-tYO83KV7ws?si=SkMRTq4zuLn5SYGk)
 
 ---
 
@@ -43,6 +61,14 @@
 ## **Elegir próximos temas**
 
 ### Propuestas de temas
+
+- ¿Que es la **brecha salariar / en pensiones** y porque se produce?
+- **Cuidados : diferencia de tiempos semanales empleados en cuidados no remunerados** entre  hombres y mujeres
+- **Micromachismos**: concepto acuñado por Luis Bonino y si seguimos viendo/ haciendo/ sufriendo estos comportamientos
+- **Mujeres en la republica**: mas allá de C. Campoamor y V. Kent
+- [**Maria Telo** ]([María Telo - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Mar%C3%ADa_Telo))y el cambio legislativo de final del franquismo: ley [14/1975,]([Creación de «Ley 14/75 de 2 de mayo de 1975» - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Ley_14/75_de_2_de_mayo_de_1975?action=edit&redlink=1)) el fin de la subordinación legal al marido
+- Las **cuotas** / las listas cremallera / los currículos ciegos : por que son necesarios aunque parecen discriminatorios
+- **Réquiem por el piropo**
 
 ### Votación
 
