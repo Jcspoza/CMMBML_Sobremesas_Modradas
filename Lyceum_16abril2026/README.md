@@ -26,7 +26,11 @@
 
 ---
 
-## **Juego** : Identifica las profesiones de estas mujeres notorias que formaron parte del Lyceum club"
+## **Juego** : Identifica las profesiones de estas mujeres notorias que formaron parte del Lyceum club
+
+[Ficha / hoja de juego - borrador](./juego_lyceum_dr1.pdf)
+
+
 
 ---
 
