@@ -50,11 +50,17 @@ Video 2 - 16 minutos
 
 ---
 
-## Charla en común
+## Charla: ¿Tienen menos visibilidad las mujeres notorias?
 
- ¿ Conocemos a menos mujeres que a hombres notorias/os en los campos artísticos , académicos , profesionales o políticos a igualdad de méritos? Sí / No 
+O dicho de forma mas personal
 
-¿ Por qué?
+* ¿**Conocemos a menos mujeres notorias** que a hombres notorios en los campos artísticos, académicos, profesionales o políticos **a igualdad de méritos**? Sí / No - > ¿ Por qué?
+
+* ¿ Se **valoran menos** los méritos de las mujeres? SI/ NO -> ¿ Por qué?
+
+* ¿ Hay **menos mujeres notorias** en algunos campos como la ciencia o el ajedrez, **por educación, historia o prejuicios**; o por ***diferentes*** capacidades ?
+
+* .....
 
 ---
 
@@ -74,4 +80,4 @@ Video 2 - 16 minutos
 
 ---
 
-## ¿Quieres incorporarte al equipo dinamizador
+## ¿Quieres incorporarte al equipo dinamizador****
