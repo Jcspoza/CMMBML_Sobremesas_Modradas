@@ -28,7 +28,7 @@ Salvo festividades u periodos no lectivos de los CMMs
 
 | Cartel - Titulo                                                                                 | Temática                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img title="" src="file:///./Lyceum_16abril2026/Cartel_lyceum_16abr26.jpeg" alt="" width="158"> | 16 de abril de 2026 [Historia del Feminismo - Lyceum Club 1926-1939](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas/blob/main/Lyceum_16abril2026/README.md) |
+| <img title="" src="./Lyceum_16abril2026/Cartel_lyceum_16abr26.jpeg" alt="" width="158"> | 16 de abril de 2026 [Historia del Feminismo - Lyceum Club 1926-1939](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas/blob/main/Lyceum_16abril2026/README.md) |
 |                                                                                                 | 21 de mayo de 2026 - Tema por definir                                                                                                                              |
 |                                                                                                 | 18 de Junio de 2026 - Tema por definir                                                                                                                             |
 
