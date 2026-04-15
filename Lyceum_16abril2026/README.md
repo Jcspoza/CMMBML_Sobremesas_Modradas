@@ -12,7 +12,7 @@
 
 - **Exposición**: ¿Qué fue el **Lyceum** club? ¿Quienes formaron parte? - 15 minutos
 
-- **Charla en común** : opinando y debatiendo sobre la pregunta ¿ Conocemos a menos mujeres que a hombres notorias/os en los campos artísticos , académicos , profesionales o políticos a igualdad de méritos? Sí / No ¿ Por qué? - 45 minutos
+- **Charla en común** : opinando y debatiendo sobre la pregunta : ¿Tienen menos visibilidad las mujeres notorias que los hombres? - 45 minutos
 
 - **Elegir próximos temas** - 5 minutos
 
@@ -74,7 +74,7 @@ Video 2 - 16 minutos
 
 ## Charla: ¿Tienen menos visibilidad las mujeres notorias que los hombres? - 45 minutos
 
-O dicho de otras formas, mas provocativas para el dialogo /debate
+O dicho de otra formas, más provocativa para el dialogo /debate
 
 * ¿**Conocemos a menos mujeres notorias** que a hombres notorios en los campos artísticos, académicos, profesionales o políticos **a igualdad de méritos**? Sí / No - > ¿ Por qué?
 
@@ -92,7 +92,13 @@ O dicho de otras formas, mas provocativas para el dialogo /debate
   
   * **sistema educativo que inculca a las niñas su 'minusvalor',** ...?  o ¿es una ***exageración***? 
 
-* ¿ Hay **menos mujeres notorias** en algunos campos como la ciencia o el ajedrez, **por educación, historia o prejuicios**; o por ***diferentes*** capacidades ?
+* **Constatando el dato de que hay menos mujeres notorias en algunos campos** como la **ciencia o el ajedrez**, la pregunta es: ¿**cuál sería la causa**: 
+  
+  * educación, 
+  
+  * historia o 
+  
+  * prejuicios, ... o por ***diferentes*** capacidades ?
 
 Y dicho en forma positiva:
 
