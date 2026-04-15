@@ -20,23 +20,35 @@
   
   ---
 
-## Presentación de la iniciativa "Las sobremesas moradas" y de sus dinamizadores
+## Presentación de la iniciativa "Las sobremesas moradas" y de sus dinamizadores - 5 minutos
 
 --> ir a [pagina principal de la Sobremesas Moradas](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas)
 
 ---
 
-## **Juego** : Identifica las profesiones de estas mujeres notorias que formaron parte del Lyceum club
+## **Juego**: Identifica las profesiones de estas mujeres notorias que formaron parte del Lyceum club
+
+### Dinámica
+
+Se trata de identificar las profesiones de mujeres notorias miembros del Lyceum. 
+
+**Antes de la parte expositiva**, se pedirá a los participantes que lean la lista e identifiquen para si, los nombres que conocen y los que no.
+
+**Despues de la exposición** de informacion sobre la historia del Lyceum, habrán salido algunos nombres en los videos o en la exposición. Con esta informacion fresca **se rellenara la ficha del juego** (aunque habrá nombres que no se hayan comentado en el exposición ) y se contaran los puntos
+
+### Materiales
 
 [Ficha / hoja de juego](./juego_lyceum_ok.pdf)
 
 [Soluciones al Juego](Soluciones_juego_lyceum_ok.pdf)
 
-**Contar puntos y proclamar ganador/a**
+### **Contar puntos y proclamar ganador/a**
 
 ---
 
-## Exposición: ¿Qué fue el **Lyceum** club? ¿Quienes formaron parte?
+## Exposición: ¿Qué fue el **Lyceum** club? ¿Quienes formaron parte? - 15 minutos
+
+[Reel de facbook del Min cultura con motivo del centenario - 1 minuto](https://www.facebook.com/reel/2142196503221178)
 
 Video 1-  3 minutos: 
 
@@ -54,23 +66,38 @@ Video 2 - 16 minutos
 
 [Lyceum Club - Trabajo academico](https://youtu.be/-tYO83KV7ws?si=SkMRTq4zuLn5SYGk)
 
-
-
 --> Si quieres **ampliar la informacion sobre el Lyceum Club ,** descárgate [este fichero](LYCEUM_s_morada_ampliacion.pdf) elaborado por MA Rodriguez y JC Santamaria 
+
+--> Si quieres tener **contexto sobre la historia del feminismo / sufragismo en España antes de 1939**  [descárgate este resumen ](Resumen_origenes_feminismoEspaña_hasta1939.pdf)
 
 ---
 
-## Charla: ¿Tienen menos visibilidad las mujeres notorias?
+## Charla: ¿Tienen menos visibilidad las mujeres notorias que los hombres? - 45 minutos
 
-O dicho de forma mas personal
+O dicho de otras formas, mas provocativas para el dialogo /debate
 
 * ¿**Conocemos a menos mujeres notorias** que a hombres notorios en los campos artísticos, académicos, profesionales o políticos **a igualdad de méritos**? Sí / No - > ¿ Por qué?
 
-* ¿ Se **valoran menos** los méritos de las mujeres? SI/ NO -> ¿ Por qué?
+* ¿ Se **valoran menos los méritos de las mujeres**? SI/ NO -> ¿**Por qué**? 
+
+* ¿ Se puede decir que hay un **aparato cultural (= propaganda del patriarcado) que sostiene la superioridad masculina** con
+  
+  * informacion falaz, 
+  
+  * ocultación de méritos femeninos, 
+  
+  * sesgos involuntarios en investigaciones, 
+  
+  * humor machista, 
+  
+  * **sistema educativo que inculca a las niñas su 'minusvalor',** ...?  o ¿es una ***exageración***? 
 
 * ¿ Hay **menos mujeres notorias** en algunos campos como la ciencia o el ajedrez, **por educación, historia o prejuicios**; o por ***diferentes*** capacidades ?
 
-* .....
+Y dicho en forma positiva:
+
+* ¿**Qué podemos hacer <u>en lo colectivo</u> para revertir la minusvaloración** de los méritos de las mujeres ?
+* ¿**Qué podemos hacer <u>en lo personal</u> para revertir la minusvaloración** de los méritos de las mujeres ?
 
 ---
 
@@ -91,7 +118,5 @@ O dicho de forma mas personal
 ---
 
 ## ¿Quieres incorporarte al equipo dinamizador
-
-
 
 ---
