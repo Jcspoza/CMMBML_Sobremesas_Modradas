@@ -12,7 +12,7 @@
 
 - **Exposición**: ¿Qué fue el **Lyceum** club? ¿Quienes formaron parte? - 15 minutos
 
-- **Charla en común** : opinando y debatiendo sobre la pregunta : ¿Tienen menos visibilidad las mujeres notorias que los hombres? - 45 minutos
+- **Charla en común** : opinando y debatiendo sobre la pregunta : <u>¿Tienen menos visibilidad las mujeres notorias que los hombres?</u>- 45 minutos
 
 - **Elegir próximos temas** - 5 minutos
 
