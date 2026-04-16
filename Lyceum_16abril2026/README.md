@@ -12,7 +12,7 @@
 
 - **Exposición**: ¿Qué fue el **Lyceum** club? ¿Quienes formaron parte? - 15 minutos
 
-- **Charla en común** : opinando y debatiendo sobre la pregunta : **<u>¿Tienen menos visibilidad las mujeres notorias que los hombres?</u>**- 45 minutos
+- **Charla en común** : opinando y debatiendo sobre la pregunta : **<u>¿Por qué desconocemos la historia y personajes del Lyceum? ,/¿Se borra la historia de las mujeres</u>**- 45 minutos
 
 - **Elegir próximos temas** - 5 minutos
 
@@ -72,35 +72,67 @@ Video 2 - 16 minutos
 
 ---
 
-## Charla: ¿Tienen menos visibilidad las mujeres notorias que los hombres? - 45 minutos
+## Debate: **<u>¿Por qué desconocemos la historia y personajes del Lyceum? ¿Se borra la historia de las mujeres</u>**- - 45 minutos
 
-O dicho de otra formas, más provocativa para el dialogo /debate
+### Mapa para debate
 
-* ¿**Conocemos a menos mujeres notorias** que a hombres notorios en los campos artísticos, académicos, profesionales o políticos **a igualdad de méritos**? Sí / No - > ¿ Por qué?
+![](C:\Users\josec\OneDrive\Documentos\GitHub\CMMBML_Sobremesas_Modradas\Lyceum_16abril2026\lyceumMM4.png)
 
-* ¿ Se **valoran menos los méritos de las mujeres**? SI/ NO -> ¿**Por qué**? 
+### Ejemplos de borrado actuales
 
-* ¿ Se puede decir que hay un **aparato cultural (= propaganda del patriarcado) que sostiene la superioridad masculina** con
-  
-  * informacion falaz, 
-  
-  * ocultación de méritos femeninos, 
-  
-  * sesgos involuntarios en investigaciones, 
-  
-  * humor machista, 
-  
-  * **sistema educativo que inculca a las niñas su 'minusvalor',** ...?  o ¿es una ***exageración***? 
+**A) Deporte (España): visibilidad mediática desigual (aunque mejora)**
 
-* **Constatando el dato de que hay menos mujeres notorias en algunos campos** como la **ciencia o el ajedrez**, la pregunta es: ¿**cuál sería la causa**: 
-  
-  * educación, 
-  
-  * historia o 
-  
-  * prejuicios, ... o por ***diferentes*** capacidades ?
+- En 2024, un estudio citado en prensa especializada sitúa la **visibilidad
+   del deporte femenino en el 25%** frente al 75% del masculino en medios. [[api.asm.skype.com]](https://api.asm.skype.com/v1/objects/0-wus-d7-3a9f8de38fde0b6c6305185fe96d742b/views/original/mapa_mental_adulto_ejemplos_es_eu.png)
+- Para 2023, otro informe (analizando más de 115.000 informaciones) hablaba de un
+   salto de **14% a 29%** de cobertura femenina vs masculina, pero
+   recalcando que la igualdad aún está lejos.  
+- **Resumen:** “Incluso con éxitos, **el relato
+   público sigue premiando lo masculino**: visibilidad, análisis y continuidad
+   informativa.” [[marketingdirecto.com]](https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/visibilidad-deporte-femenino-2024) [[api.asm.skype.com]](https://api.asm.skype.com/v1/objects/0-wus-d7-3a9f8de38fde0b6c6305185fe96d742b/views/original/mapa_mental_adulto_ejemplos_es_eu.png),
+   [[marketingdirecto.com]](https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/visibilidad-deporte-femenino-2024)
 
-Y dicho en forma positiva:
+**B) Ciencia (Europa/España): “Efecto Matilda” (crédito que
+se desplaza)**
+
+- El **“efecto Matilda”** describe el prejuicio por el que los logros de científicas se
+   **ignoran o atribuyen a colegas varones**. [[marca.com]](https://www.marca.com/futbol/futbol-femenino/2024/03/07/65e9ba5f22601db9258b4576.html)
+- En España, medios generalistas lo usan para explicar por qué faltan
+   referentes femeninos en los relatos científicos y educativos, y cómo eso
+   impacta en vocaciones.  
+- Resumen: “No es que no estén: es que la **autoría se diluye, se
+   cita menos o se coloca bajo** firmas ‘con autoridad’.” [[es.wikipedia.org]](https://es.wikipedia.org/wiki/Efecto_Matilda) [[marca.com]](https://www.marca.com/futbol/futbol-femenino/2024/03/07/65e9ba5f22601db9258b4576.html),
+   [[es.wikipedia.org]](https://es.wikipedia.org/wiki/Efecto_Matilda)
+
+**C) Salud/medicina (España/Europa): brecha de género en
+investigación clínica**
+
+- El Ministerio de Sanidad/AEMPS ha tratado explícitamente la **falta de
+   paridad** en liderazgo de ensayos clínicos (quién firma y lidera como
+   investigadora principal) y cómo, aunque mejora, persisten desigualdades en
+   volumen de liderazgo. [[elpais.com]](https://elpais.com/economia/formacion/2023-02-10/del-efecto-matilda-a-las-cientificas-de-hoy-asi-se-ayuda-a-visibilizar-las-contribuciones-de-la-mujer-a-la-ciencia.html)
+- También se documenta el impacto de la **infrarepresentación histórica de mujeres
+   en ensayos**: dosis/seguridad/eficacia derivadas en muchos casos de
+   estudios mayoritariamente en hombres y consecuencias de conocimiento
+   incompleto.  
+- Resumen: “Aquí el ‘**borrado’ no es solo simbólico**: afecta a
+   quién lidera, a qué datos se producen y a quién se considera ‘norma’ en la
+   evidencia.” [[aemps.gob.es]](https://www.aemps.gob.es/informa/el-ministerio-de-sanidad-impulsa-el-liderazgo-femenino-en-ensayos-clinicos-en-el-dia-internacional-de-la-mujer-y-la-nina-en-la-ciencia/?lang=ca) [[elpais.com]](https://elpais.com/economia/formacion/2023-02-10/del-efecto-matilda-a-las-cientificas-de-hoy-asi-se-ayuda-a-visibilizar-las-contribuciones-de-la-mujer-a-la-ciencia.html),
+   [[aemps.gob.es]](https://www.aemps.gob.es/informa/el-ministerio-de-sanidad-impulsa-el-liderazgo-femenino-en-ensayos-clinicos-en-el-dia-internacional-de-la-mujer-y-la-nina-en-la-ciencia/?lang=ca)
+
+**D) Arte y cultura (España/Europa): mujeres como imagen,
+pero menos como autoría**
+
+- En divulgación cultural española se subraya una idea muy potente: en museos
+   hay **muchas mujeres representadas en los cuadros**, pero **muchas
+   menos en los carteles como autoras** (quién pinta). [[elmundo.es]](https://www.elmundo.es/ciencia-y-salud/salud/2025/03/07/67c9d6c9e4d4d87e078b4598.html)
+- Además, hay análisis sobre cómo instituciones como el Prado han abordado
+   críticamente el rol de la mujer y los **mecanismos institucionales** que construyen el canon (qué se compra, exhibe, legitima).  
+- Resumen: “**El canon no es neutro**: decide qué nombres se
+   recuerdan, quién entra en el relato y quién queda como ‘excepción’.” [[rtve.es]](https://www.rtve.es/noticias/20250615/poder-imagenes-pintura-conocer-pasado-para-entender-nuestra-forma-mirar/16623720.shtml) [[elmundo.es]](https://www.elmundo.es/ciencia-y-salud/salud/2025/03/07/67c9d6c9e4d4d87e078b4598.html),
+   [[rtve.es]](https://www.rtve.es/noticias/20250615/poder-imagenes-pintura-conocer-pasado-para-entender-nuestra-forma-mirar/16623720.shtml)
+
+### ¿Que podemos hacer?
 
 * ¿**Qué podemos hacer <u>en lo colectivo</u> para revertir la minusvaloración** de los méritos de las mujeres ?
 * ¿**Qué podemos hacer <u>en lo personal</u> para revertir la minusvaloración** de los méritos de las mujeres ?
