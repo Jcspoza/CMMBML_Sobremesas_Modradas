@@ -78,6 +78,10 @@ Video 2 - 16 minutos
 
 ![](lyceumMM4.png)
 
+[Efecto Matilda - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Efecto_Matilda)
+
+[Video TT los Hombres no escuchan a las mujeres o explicación de canon](https://vm.tiktok.com/ZNRVsxJGh/)
+
 ### Ejemplos de borrado actuales
 
 **A) Deporte (España): visibilidad mediática desigual (aunque mejora)**
