@@ -76,7 +76,7 @@ Video 2 - 16 minutos
 
 ### Mapa para debate
 
-![](C:\Users\josec\OneDrive\Documentos\GitHub\CMMBML_Sobremesas_Modradas\Lyceum_16abril2026\lyceumMM4.png)
+![](lyceumMM4.png)
 
 ### Ejemplos de borrado actuales
 
