@@ -26,13 +26,28 @@ Salvo festividades u periodos no lectivos de los CMMs
 
 ## Charlas próximas
 
+| Cartel - Titulo                                                                         | Temática                                                                                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img title="" src="./Lyceum_16abril2026/Cartel_lyceum_16abr26.jpeg" alt="" width="158"> | 16 de abril de 2026 [Historia del Feminismo - Lyceum Club 1926-1939](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas/blob/main/Lyceum_16abril2026/README.md)                                                                                       |
+|                                                                                         | **21 de mayo de 2026** - Reivindicaciones feministas-  **Brecha en Pensiones**- ¿Crees que es justa? / EN PREPARACION                                                                                                                                    |
+|                                                                                         | **18 de Junio de 2026** - Historia del Feminismo - **El Feminismo en la republica española**- ¿ A qué se debe dar prioridad: luchar contra desigualdad de genero o luchar contra las de clase /económicas ? o ¿ es una pregunta trampa? / EN PREPARACION |
+
+## Charlas Dadas
+
 | Cartel - Titulo                                                                         | Temática                                                                                                                                                           |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img title="" src="./Lyceum_16abril2026/Cartel_lyceum_16abr26.jpeg" alt="" width="158"> | 16 de abril de 2026 [Historia del Feminismo - Lyceum Club 1926-1939](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas/blob/main/Lyceum_16abril2026/README.md) |
-|                                                                                         | 21 de mayo de 2026 - Tema por definir                                                                                                                              |
-|                                                                                         | 18 de Junio de 2026 - Tema por definir                                                                                                                             |
+|                                                                                         |                                                                                                                                                                    |
 
-## Charlas Dadas
+###### Propuestas de temas
+
+- **Cuidados : diferencia de tiempos semanales empleados en cuidados no remunerados** entre  hombres y mujeres
+- **Micromachismos**: concepto acuñado por Luis Bonino y si seguimos viendo/ haciendo/ sufriendo estos comportamientos
+- [**Maria Telo**](https://es.wikipedia.org/wiki/Mar%C3%ADa_Telo) y el cambio legislativo de final del franquismo: ley [14/1975,](https://es.wikipedia.org/wiki/Ley_14/75_de_2_de_mayo_de_1975?action=edit&redlink=1) el fin de la subordinación legal al marido
+- Las **cuotas** / las listas cremallera / los currículos ciegos : por que son necesarios aunque parecen discriminatorios
+- **Réquiem por el piropo** 
+
+
 
 ## Estructura de las charla-coloquio - 1 hora y 30 minutos
 
