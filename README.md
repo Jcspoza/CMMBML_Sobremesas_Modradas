@@ -1,4 +1,4 @@
-# Sobremesas Modradas en el Centro de Mayores Benito M. lozano
+# Sobremesas Moradas en el Centro de Mayores Benito M. lozano
 
 Charlas - café sobre feminismo en al CMM Benito M. Lozano
 
@@ -26,10 +26,10 @@ Salvo festividades u periodos no lectivos de los CMMs
 
 ## Charlas próximas
 
-| Cartel - Titulo | Temática                                                                                                                                                                                                                                                 |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                 | **21 de mayo de 2026** - Reivindicaciones feministas-  **Brecha en Pensiones**- ¿Crees que es justa? / EN PREPARACION                                                                                                                                    |
-|                 | **18 de Junio de 2026** - Historia del Feminismo - **El Feminismo en la republica española**- ¿ A qué se debe dar prioridad: luchar contra desigualdad de genero o luchar contra las de clase /económicas ? o ¿ es una pregunta trampa? / EN PREPARACION |
+| Cartel - Titulo | Temática                                                                                                                                                                                                                                                      |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                 | **21 de mayo de 2026** - Reivindicaciones feministas-  **Brecha en Pensiones**- ¿Crees que es justa? / EN PREPARACION                                                                                                                                         |
+|                 | **18 de Junio de 2026** - Historia del Feminismo - **El Feminismo en la republica española**- ¿ A qué se debe dar prioridad: luchar contra la desigualdad de genero o a luchar contra las de clase /económicas ? o ¿ es una pregunta trampa? / EN PREPARACION |
 
 ## Charlas Dadas
 
