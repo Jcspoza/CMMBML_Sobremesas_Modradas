@@ -28,7 +28,7 @@ Salvo festividades u periodos no lectivos de los CMMs
 
 | Cartel - Titulo | Temática                                                                                                                                                                                                                                                      |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                 | **21 de mayo de 2026** - Reivindicaciones feministas-  **Brecha en Pensiones**- ¿Crees que es justa? / EN PREPARACION                                                                                                                                         |
+|                 | **21 de mayo de 2026** - Reivindicaciones feministas- **[Brecha en Pensiones- ¿Crees que es justa?](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas/blob/main/BrechaPensiones21mayp26/README.md) / EN PREPARACION**                                     |
 |                 | **18 de Junio de 2026** - Historia del Feminismo - **El Feminismo en la republica española**- ¿ A qué se debe dar prioridad: luchar contra la desigualdad de genero o a luchar contra las de clase /económicas ? o ¿ es una pregunta trampa? / EN PREPARACION |
 
 ## Charlas Dadas
@@ -45,8 +45,6 @@ Salvo festividades u periodos no lectivos de los CMMs
 - [**Maria Telo**](https://es.wikipedia.org/wiki/Mar%C3%ADa_Telo) y el cambio legislativo de final del franquismo: ley [14/1975,](https://es.wikipedia.org/wiki/Ley_14/75_de_2_de_mayo_de_1975?action=edit&redlink=1) el fin de la subordinación legal al marido
 - Las **cuotas** / las listas cremallera / los currículos ciegos : por que son necesarios aunque parecen discriminatorios
 - **Réquiem por el piropo** 
-
-
 
 ## Estructura de las charla-coloquio - 1 hora y 30 minutos
 

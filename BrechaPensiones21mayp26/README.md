@@ -1,4 +1,4 @@
-# brecha de Genero en Pensiones - Reivindicaciones Feministas
+# Brecha de Genero en Pensiones - Reivindicaciones Feministas
 
 **Sobremesas_Moradas** : Charlas - café sobre feminismo en al CMM Benito M. Lozano
 
@@ -22,11 +22,7 @@ Presentación de la iniciativa "Las sobremesas moradas" y de sus dinamizadores -
 
 [Informe de analisis de Brecha de Genero del IM - 20205](analisis_brecha_genero_pensiones_246p.pdf)
 
-
-
 ---
-
-
 
 ## **Juego**: por definir
 
@@ -38,15 +34,9 @@ Presentación de la iniciativa "Las sobremesas moradas" y de sus dinamizadores -
 
 ---
 
-
-
 ## Charla en común:  ¿Crees que la brecha en pensiones es justa desde un punto de vista social? - 45 minutos
 
 ### Mapa para debate
-
-
-
-
 
 ### ¿Que podemos hacer / revindicar al gobierno / partidos / sindicatos?
 
@@ -66,8 +56,6 @@ Presentación de la iniciativa "Las sobremesas moradas" y de sus dinamizadores -
 - [**Maria Telo**](https://es.wikipedia.org/wiki/Mar%C3%ADa_Telo) y el cambio legislativo de final del franquismo: ley [14/1975,](https://es.wikipedia.org/wiki/Ley_14/75_de_2_de_mayo_de_1975?action=edit&redlink=1) el fin de la subordinación legal al marido
 - Las **cuotas** / las listas cremallera / los currículos ciegos : por que son necesarios aunque parecen discriminatorios
 - **Réquiem por el piropo**
-
-
 
 ---
 
