@@ -44,8 +44,6 @@ Para facilitar el debate posterior, hemos pensado en que **rellenes mientras tom
 
 [Formulario papel](cuestionarioBGPv0.pdf)
 
-
-
 --
 
 ## Exposición: ¿Qué es la brecha de genero en pensiones? Algunos datos y origen? - 15 minutos
@@ -94,7 +92,7 @@ Adicionalmente hay **cerca de 0,5 millones de pensiones no contributivas**
 
 [Infografía de radiografía de Pensionistas - abril 2026](infografia_datosPensionistasAbril2026.png)
 
-Excel con detalles
+[Excel con detalles](ResumenAbril2026.xlsx)
 
 Nota: la brecha de genero se calcula no por el cobro de los/las pensionistas individuales,que pueden acumular varias pensione, sino por cada pensión cobrada
 
@@ -102,7 +100,7 @@ Nota: la brecha de genero se calcula no por el cobro de los/las pensionistas ind
 
 [Infografía datos pensiones contributivas, brecha de genero en el SPPE - abril 2026](infografia_datosContributivasAbril26.png)
 
-Excel con detalles
+[Excel con detalles](ResumenAbril2026.xlsx)
 
 [Infografía de causas](infografia_causasBGP.png)
 
