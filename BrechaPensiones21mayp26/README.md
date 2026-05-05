@@ -6,9 +6,11 @@ Presentación de la iniciativa "Las sobremesas moradas" y de sus dinamizadores -
 
 ## Agenda
 
-- **¿Qué es la brecha de genero en pensiones? Algunos datos y origen** - 15 minutos
+- **Aviso preliminar: distinguir entre legalidad y justicia**
 
-- **Juego** : por definir - 15 minutos
+- **Cuestionario de auto-evaluación sobre brecha de genero en pensiones** - 15 minutos
+
+- **¿Qué es la brecha de genero en pensiones? Algunos datos y origen** - 15 minutos
 
 - **Charla en común** : opinando y debatiendo sobre la pregunta : **<u>¿Crees que la brecha en pensiones es justa desde un punto de vista social?</u>**- 45 minutos
 
@@ -18,13 +20,7 @@ Presentación de la iniciativa "Las sobremesas moradas" y de sus dinamizadores -
   
   ---
 
-## Exposición: ¿Qué es la brecha de genero en pensiones? Algunos datos y origen? - 15 minutos
-
-### Informes de interes y otros enlaces con información
-
-[Informe de analisis de Brecha de Genero del IM - 2025 - 246 pags](analisis_brecha_genero_pensiones_246p.pdf)
-
-### Aviso preliminar
+## Aviso preliminar - 5 minutos
 
 En este tema hay que **distinguir entre legalidad y justicia** (= equidad social):
 
@@ -40,13 +36,77 @@ En el caso de la brecha de genero en pensiones , **parece haber bastante consens
 
 ---
 
-## **Juego**: por definir
+## Cuestionario de auto-evaluación sobre brecha de genero en pensiones - 15 minutos
 
-### Dinámica
+Para facilitar el debate posterior, hemos pensado en que **rellenes mientras tomas café y bollos SOLO PARA TI un cuestionario** de auto evaluación sobre le tema de la brecha de genero. Puedes hacerlo en papel u 'on line'
 
-### Materiales
+[Formulario on line](https://forms.gle/wmBb2TGgbbYmU9rc8)
 
-### **Contar puntos y proclamar ganador/a**
+[Formulario papel](S. Moradas - Auto-evaluación Brecha de Genero en Pensiones en España -v0 - Formularios de Google.pd)
+
+--
+
+## Exposición: ¿Qué es la brecha de genero en pensiones? Algunos datos y origen? - 15 minutos
+
+### 0- Informes de interes y otros enlaces con información
+
+[Informe de analisis de Brecha de Genero del IM - 2025 - 246 pags](analisis_brecha_genero_pensiones_246p.pdf)
+
+### 1- El Sistema de Pensiones Publicas en España - informacion general y brecha de genero
+
+#### El SPPE
+
+##### Rasgos generales
+
+El sistema público de pensiones es el que permite que estas personas **reciban sus prestaciones cada mes**. Está protegido por la Constitución en sus artículos 41 y 50.
+
+Estas son las principales **características del sistema público de pensiones** en España:
+
+- Es un sistema de reparto que **promueve la solidaridad entre generaciones**: los trabajadores en activo son los que financian las pensiones.
+- Es **universal**, ya que garantiza que incluso las necesidades básicas de los pensionistas que no hayan contribuido previamente al sistema se vean cubiertas gracias a pensiones no contributivas.
+- Es un sistema **proporcional**, ya que la cuantía de las prestaciones depende de las bases de cotización y el tiempo cotizado. Estos dos factores son los que permiten **calcular la pensión de jubilación** o cualquier otra contributiva.
+- Promueve la solidaridad entre territorios, ya que todas las cotizaciones van a parar a una **caja única.**
+
+Su **historia comienza en 1900**, pero no se puede hablar de un **sistema** unificado, **bien financiado** y con un diseño homologable a otros países de Europa **hasta la llegada de la democracia en 1977**
+
+##### Gasto sobre PIB y sostenibilidad
+
+Las ultimas estimaciones indican que el gasto en pensiones fue del **12.9 % del PIB en 2025**.
+
+Respecto a la **sostenibilidad futura**, se ha diseñado un sistema recientemente (abril 2026) llamado **INTegraSS**  para una evolución continua de la factura del sistema SPPE. Esta herramienta indica que la cuantía **ascenderá a un promedio del 14% del PIB en el periodo 2022-2050** Es un valor inferior a otras estimación, incluida la de la OCDE o al AIREF, pero se estima que es de mejor calidad, ya que incluye el impacto de medidas como el MEI o el aumento de cotizaciones máximas tomadas desde 2021.  Este valor es inferior al de países del entorno y se debe 
+
+Ver detalle en [La Seguridad Social modera el impacto del gasto en pensiones al 14% del PIB hasta 2050 tras la alarma por su elevado coste | Economía | EL PAÍS](https://elpais.com/economia/2026-04-09/la-seguridad-social-modera-el-impacto-del-gasto-en-pensiones-al-14-del-pib-hasta-2050-tras-la-alarma-por-su-elevado-coste.html)
+
+#### Definición y origen de brecha de Genero en pensiones
+
+Según el Real Decreto-ley 3/2021, de 2 de febrero, por el que se adoptan medidas para la reducción de la brecha de género y otras materias en los ámbitos de la Seguridad Social y económico, la brecha de género se define como:
+“**el porcentaje que representa la diferencia entre el importe medio de las pensiones de jubilación contributiva causadas en un año por los hombres y por las mujeres**”.
+
+La brecha de genero en pensiones, encuentra su origen en las disparidades económicas, sistémicas y sociales acumuladas a lo largo de la vida laboral.
+
+#### Numero de pensionistas - abril 2026
+
+En abril 2026 hay en numero redondos **9.5 Millones de pensionistas (hombres y mujeres) , con un 49.7% de mujeres,** que han cobrado **10.5 millones de pensiones contributivas** (números redondos), porque **en algunos casos una persona cobra mas de 1 pensión**
+
+Adicionalmente hay **cerca de 0,5 millones de pensiones no contributivas**
+
+[Infografía de radiografía de Pensionistas - abril 2026](infografia_datosPensionistasAbril2026.png)
+
+
+
+Excel con detalles
+
+Nota: la brecha de genero se calcula no por el cobro de los/las pensionistas individuales,que pueden acumular varias pensione, sino por cada pensión cobrada
+
+#### Pensiones contributivas, brecha de genero y causas
+
+[Infografía datos pensiones contributivas, brecha de genero en el SPPE - abril 2026](infografia_datosContributivasAbril26.png)
+
+Excel con detalles
+
+[Infografía de causas](infografia_causasBGP.png)
+
+
 
 ---
 
@@ -58,9 +118,9 @@ En el caso de la brecha de genero en pensiones , **parece haber bastante consens
 
 * Pensiones **no contributivas** : ¿ son justas socialmente hablando?
 
-* El **complemento actual de brecha de genero** que está desequibrándo más la brecha de genero, por un diseño legal 'condenado' por el Tribunal de Justicia europeo
+* El **complemento actual de brecha de genero** que está desequilibrándo más la brecha de genero, por un diseño legal 'condenado' por el Tribunal de Justicia europeo
 
-* ¿**Por qué no se abordan de forma mas efectivas los orígenes de la brecha en salarios**que influyen mas en la de pensiones?
+* ¿**Por qué no se abordan de forma mas efectivas los orígenes de la brecha en salarios** que influyen mas en la de pensiones?
   
   * Parcialidad
   * Lagunas de cotizacion => salidas del mercado laboral por hijos etc
