@@ -42,7 +42,9 @@ Para facilitar el debate posterior, hemos pensado en que **rellenes mientras tom
 
 [Formulario on line](https://forms.gle/wmBb2TGgbbYmU9rc8)
 
-[Formulario papel](S. Moradas - Auto-evaluación Brecha de Genero en Pensiones en España -v0 - Formularios de Google.pd)
+[Formulario papel](cuestionarioBGPv0.pdf)
+
+
 
 --
 
@@ -92,8 +94,6 @@ Adicionalmente hay **cerca de 0,5 millones de pensiones no contributivas**
 
 [Infografía de radiografía de Pensionistas - abril 2026](infografia_datosPensionistasAbril2026.png)
 
-
-
 Excel con detalles
 
 Nota: la brecha de genero se calcula no por el cobro de los/las pensionistas individuales,que pueden acumular varias pensione, sino por cada pensión cobrada
@@ -105,8 +105,6 @@ Nota: la brecha de genero se calcula no por el cobro de los/las pensionistas ind
 Excel con detalles
 
 [Infografía de causas](infografia_causasBGP.png)
-
-
 
 ---
 
